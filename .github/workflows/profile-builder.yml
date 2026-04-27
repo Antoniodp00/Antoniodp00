@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Bloque añadido: Otorga permisos de escritura al bot de GitHub Actions
+permissions:
+  contents: write 
+
 jobs:
   build-metrics:
     runs-on: ubuntu-latest

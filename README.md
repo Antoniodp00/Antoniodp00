@@ -34,21 +34,6 @@
 
 ---
 
-## Experiencia y Proyectos Destacados
-
-* **Desarrollador de Software en Sepalo Software** *(Feb 2026 - May 2026)*
-  Desarrollo de aplicaciones empresariales. Uso de **ASP.NET Core 8**, **Entity Framework Core** y **Angular 17+** (Signals, OnPush). Autenticación segura con **JWT**.
-* **SEPALO - Plataforma Web de Digital Signage (TFG)**
-  Frontend reactivo con Angular Material; backend en capas con .NET 8, PostgreSQL y EF Core.
-* **CineSphere - Gestión de Catálogos de Cine**
-  Aplicación Java 17 (JavaFX) con arquitectura MVC y patrón DAO. Gestión de roles y visualización estadística.
-* **Desarrollador en Berger-Levrault** *(Feb 2025)*
-  Desarrollo para administraciones públicas e integración de **IA generativa (LLMs)** para optimizar el ciclo de vida del desarrollo.
-* **Administrador de Sistemas** *(2022 - 2023)*
-  Administración de redes y Directorio Activo (Ayuntamientos de Alcalá la Real y Montilla). Automatización con **Bash** y **PowerShell**.
-
----
-
 ## Conecta conmigo
 
 <p align="left">
